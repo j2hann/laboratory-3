@@ -1,6 +1,6 @@
 salary = int(input("Enter your monthly salary: "))
 loan = int(input("Enter your desired loan: "))
-
+# HI MISS WAIT LANG PO NAKALIMUTAN KO PO YUNG SALARY DETECTION KAPAG 30000 HUHUHU
 loanLimit = salary * 10
 if loan > loanLimit:
     print("You are not qualified for the loan. Reason: Your loan is 10 times higher than your monthly salary.")
